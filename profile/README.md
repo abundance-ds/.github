@@ -4,12 +4,13 @@
 
 > Sound decision making for an age of abundant intelligence.
 
-## Desktop tools for AI-native work
+## Tools for AI-native work
 
 - [mimir](https://github.com/abundance-ds/mimir) — Workspace for people and agents
 - [mim-awake](https://github.com/abundance-ds/mim-awake) — Cross platform sleep control
 - [mim-clip](https://github.com/abundance-ds/mim-clip) — MacOs clipboard history
 - [mim-dictate](https://github.com/abundance-ds/mim-dictate) — Local speech-to-text
+- [mim-review](https://github.com/abundance-ds/mim-review) — Peer review with your own AI
 - [mim-ultra](https://github.com/abundance-ds/mim-ultra) — Agent runtime for Linux
 - [Shoulders](https://github.com/abundance-ds/shoulders) — AI document editor for researchers
 
